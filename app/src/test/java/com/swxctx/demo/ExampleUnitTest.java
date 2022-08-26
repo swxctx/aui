@@ -1,4 +1,4 @@
-package com.xiaoenai.demo;
+package com.swxctx.demo;
 
 import org.junit.Test;
 

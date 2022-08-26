@@ -1,4 +1,4 @@
-package com.xiaoenai.demo;
+package com.swxctx.demo;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.xiaoenai.aui", appContext.getPackageName());
+        assertEquals("com.swxctx.aui", appContext.getPackageName());
     }
 }
